@@ -1,0 +1,3 @@
+# I place \ before the space to make sure it gets counted
+# these are a load of models and images trained over a single epoch to make sure the setup worked correctly
+/**/*Single\ Epoch\ Test/**
